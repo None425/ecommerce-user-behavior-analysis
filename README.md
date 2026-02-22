@@ -1,10 +1,10 @@
-# E-커머스 로그를 활용한 분석
+# 사용자 로그 데이터 기반 카테고리 매출 성장 구조 분석
+
 
 ## 프로젝트 개요
-E-Commerce 사용자 행동 로그 데이터를 활용하여
-사용자의 구매 전환 행동 패턴을 분석하고, 
-구매 전환 퍼널 구조를 정의하여 전환율 개선을 위한 
-데이터 기반 인사이트 도출을 목표로 한 분석 프로젝트
+E-Commerce 사용자 행동 로그 데이터를 분석하여   
+구매 전환 퍼널을 정의하고 단계별 이탈 구조를 파악하였다.   
+또한 요일 및 카테고리별 전환율 차이를 분석해 전환율 개선 방향을 도출한 프로젝트이다.  
 
 ## 활용 데이터 
 1. E-커머스 로그 데이터 - https://www.kaggle.com/code/annettecatherinepaul/ecommerce-analysis-and-recommendations/input
@@ -115,3 +115,6 @@ E-Commerce 사용자 행동 로그 데이터를 활용하여
 Python : 데이터 분석 및 전처리    
 Matplotlib : 데이터 시각화   
 Jupyter Notebook : 분석 환경    
+
+## 정보 활용
+퍼널 분석이란 - https://www.datarize.ai/ko/blog/funnel-analysis
